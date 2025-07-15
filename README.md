@@ -35,9 +35,8 @@ This project is built using Arduino Uno and 4 servo motors, designed to simulate
 3. Repeat loop to continue walking
 
    ## code
-   #include <Servo.h>
-
-
+ #include <Servo.h>
+   
 Servo servo1;
 Servo servo2;
 Servo servo3;
